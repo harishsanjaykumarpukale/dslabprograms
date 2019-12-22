@@ -3,6 +3,8 @@
 #include<string.h>
 #include<ctype.h>
 
+//In this program reverse function is not used in order to avoid more functions and to keep program simple
+
 struct node
 {
 int data;
